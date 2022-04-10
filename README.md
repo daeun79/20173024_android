@@ -13,3 +13,10 @@
 # 4주차 과제
 
 <img width="" height="" src="./pic/message.jpg"></img>
+
+# 5주차 과제
+
+<img width="" height="" src="./pic/activity_main.jpg"></img>
+<img width="" height="" src="./pic/mainactivity.jpg"></img>
+<img width="" height="" src="./pic/cat.jpg"></img>
+<img width="" height="" src="./pic/dog.jpg"></img>
