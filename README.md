@@ -20,3 +20,8 @@
 <img width="" height="" src="./pic/mainactivity.jpg"></img>
 <img width="" height="" src="./pic/cat.jpg"></img>
 <img width="" height="" src="./pic/dog.jpg"></img>
+
+# 6주차 과제
+
+<img width="" height="" src="./pic/Width.jpg"></img>
+<img width="" height="" src="./pic/Height.jpg"></img>
