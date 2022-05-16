@@ -25,3 +25,8 @@
 
 <img width="" height="" src="./pic/Width.jpg"></img>
 <img width="" height="" src="./pic/Height.jpg"></img>
+
+# 10주차 과제
+
+<img width="" height="" src="./pic/main10.jpg"></img>
+<img width="" height="" src="./pic/menu10.jpg"></img>
