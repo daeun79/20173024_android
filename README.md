@@ -36,4 +36,4 @@
 <img width="" height="" src="./pic/key.png"></img>
 
 # 12주차 과제
-<img width="" height="" src="./pic/movie.jpg"></img>
+<img width="" height="" src="./pic/movie2.jpg"></img>
